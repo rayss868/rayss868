@@ -30,8 +30,8 @@ systems / backend / automation / infrastructure / MCP tooling
 ## stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,docker,nodejs,python,js,express,nginx,mongodb,mysql,git,github,vscode&theme=dark" alt="Tech stack" />
-</p>
+    <img src="https://skillicons.dev/icons?i=linux,docker,nodejs,python,js,express,nginx,mongodb,mysql,git,github,vscode&theme=dark" alt="Tech stack" />
+</p>p>
 
 ## selected repositories
 
@@ -51,10 +51,12 @@ If You Know Something, Then Do It.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rayss868)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rayhanzahwans1@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rayss868)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rayss868)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281226815608)
+  [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rayss868)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rayhanzahwans1@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rayss868)
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rayss868)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281226815608)
 
-</div>
+  </div>
+  
+</p>
