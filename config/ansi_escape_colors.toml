@@ -1,0 +1,24 @@
+[rayss868]
+        [rayss868.default_colors]
+        fg = "#E6FCFF"
+        bg = "#020617"
+
+        [rayss868.normal_colors]
+        black = "#082F49"
+        red = "#FB7185"
+        green = "#34D399"
+        yellow = "#FBBF24"
+        blue = "#0891B2"
+        magenta = "#22D3EE"
+        cyan = "#06B6D4"
+        white = "#E6FCFF"
+
+        [rayss868.bright_colors]
+        black = "#164E63"
+        red = "#FDA4AF"
+        green = "#6EE7B7"
+        yellow = "#FCD34D"
+        blue = "#0E7490"
+        magenta = "#67E8F9"
+        cyan = "#22D3EE"
+        white = "#F0FDFF"
